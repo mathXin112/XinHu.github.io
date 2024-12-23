@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 💃 About me
+# About me
 
 I am currently a Ph.D. Research at [Statistics from School of Mathematics and Statistics](http://math.xjtu.edu.cn), [Xi’an Jiaotong University](http://www.xjtu.edu.cn), Shaanxi, China, supervised by Prof. [Jian Sun](https://gr.xjtu.edu.cn/en/web/jiansun).
 
