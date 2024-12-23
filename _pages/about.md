@@ -32,8 +32,8 @@ My research lies at **3D Vision**, particularly interested for **3D reconstructi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS_2024.pdf' alt="sym" width="30%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image' style="flex: 1;><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS_2024.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 3;" markdown="1">
 
 Learning 3D Equivariant Implicit Function with Patch-Level Pose-Invariant Representation
 
