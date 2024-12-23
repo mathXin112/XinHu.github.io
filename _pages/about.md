@@ -36,7 +36,13 @@ My research lies at **3D Vision**, particularly interested for **3D reconstructi
 
     **Xin Hu**, Xiaole Tang, Ruixuan Yu, Jian Sun
 
-    NeruIPS 2024 (CCF-A). [**PDF**](https://openreview.net/pdf?id=aXS1pwMa8I) [**Code**](https://github.com/mathXin112/PEIF)
+    NeruIPS 2024 (CCF-A). [[**PDF**]](https://openreview.net/pdf?id=aXS1pwMa8I) [[**Code**]](https://github.com/mathXin112/PEIF)
+
+- Residual-Conditioned Optimal Transport: Towards Structure-Preserving Unpaired and Paired Image Restoration
+
+  Xiaole Tang, **Xin Hu**, Xiang Gu, Jian Sun
+
+  ICML 2024 (CCF-A). [[**PDF**]]([https://openreview.net/pdf?id=aXS1pwMa8I](https://arxiv.org/pdf/2405.02843)) [[**Code**]](https://github.com/xl-tang3/RCOT)
 
 
 # 🎖 Honors and Awards
