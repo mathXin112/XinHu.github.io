@@ -32,12 +32,14 @@ My research lies at **3D Vision**, particularly interested for **3D reconstructi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image' style="flex: 0.2;><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS_2024.pdf' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="flex: 0.4;" markdown="1">
+<div class='paper-box'><div class='paper-box-image' ><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS_2024.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 Learning 3D Equivariant Implicit Function with Patch-Level Pose-Invariant Representation
 
 **Xin Hu**, Xiaole Tang, Ruixuan Yu, Jian Sun
+
+Neural Information Processing Systems Annual Conference (NeruIPS) 2024
 
 [**PDF**](https://openreview.net/pdf?id=aXS1pwMa8I) [**Code**](https://github.com/mathXin112/PEIF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
