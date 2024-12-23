@@ -51,6 +51,12 @@ My research lies at **3D Vision**, particularly interested for **3D reconstructi
 
   Pattern Recognition 2023 (CCF-B, SCI 一区 Top). [[**PDF**]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002698) [[**Code**]](https://github.com/mathXin112/ND-PUFlow)
 
+- Stabilization of Boolean control networks with stochastic impulses
+
+  **Xin Hu**, Chi Huang, Jianquan Lu, Jinde Cao
+
+  Journal of the Franklin Institute 2019 (SCI 二区). [[**PDF**]](https://www.sciencedirect.com/science/article/abs/pii/S0016003219304867)
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
