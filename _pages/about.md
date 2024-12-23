@@ -40,7 +40,6 @@ Learning 3D Equivariant Implicit Function with Patch-Level Pose-Invariant Repres
 **Xin Hu**, Xiaole Tang, Ruixuan Yu, Jian Sun
 
 [**PDF**](https://openreview.net/pdf?id=aXS1pwMa8I) [**Code**](https://github.com/mathXin112/PEIF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
