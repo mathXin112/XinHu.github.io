@@ -23,7 +23,7 @@ I am currently a Ph.D. Research at [Statistics from School of Mathematics and St
 
 I received my M.S. degree from [School of Mathematics and Statistics](https://math.tyut.edu.cn), [Taiyuan University of Technology](https://www.tyut.edu.cn), Shanxi, China, in 2020, supervised by Prof. [Chi Huang](https://it.swufe.edu.cn/info/1119/14718.htm).
 
-Previously, I received my B.S. degree from [School of Mathematics and Statistics](https://math.tyut.edu.cn), [Taiyuan University of Technology](https://www.tyut.edu.cn), Shanxi, China, in 2020.
+Previously, I received my B.S. degree from [School of Mathematics and Statistics](https://math.tyut.edu.cn), [Taiyuan University of Technology](https://www.tyut.edu.cn), Shanxi, China, in 2017.
 
 My research lies at **3D Vision**, particularly interested for **3D reconstruction**.   
 
