@@ -27,10 +27,12 @@ Previously, I received my B.S. degree from [School of Mathematics and Statistics
 
 My research lies at **3D Vision**, particularly interested for **3D reconstruction**.   
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.09*: One paper (Learning 3D Equivariant Implicit Function with Patch-Level Pose-Invariant Representation) was accepted by NeurIPS 2024.
 - *2024.05*: One paper (Residual-Conditioned Optimal Transport: Towards Structure-Preserving Unpaired and Paired Image Restoration) was accepted by ICML 2024.
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 
 - Learning 3D Equivariant Implicit Function with Patch-Level Pose-Invariant Representation
@@ -57,7 +59,7 @@ My research lies at **3D Vision**, particularly interested for **3D reconstructi
 
   Journal of the Franklin Institute 2019 (SCI 二区). [[**PDF**]](https://www.sciencedirect.com/science/article/abs/pii/S0016003219304867)
 
-
+<span class='anchor' id='honors and awards'></span>
 # 🎖 Honors and Awards
 - *2023.10* Outstanding Graduate Student Leader
 - *2023.10* Xi'an Jiaotong University Scholarship
