@@ -59,7 +59,7 @@ My research lies at **3D Vision**, particularly interested for **3D reconstructi
 
   Journal of the Franklin Institute 2019 (SCI 二区). [[**PDF**]](https://www.sciencedirect.com/science/article/abs/pii/S0016003219304867)
 
-<span class='anchor' id='honors and awards'></span>
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2023.10* Outstanding Graduate Student Leader
 - *2023.10* Xi'an Jiaotong University Scholarship
