@@ -34,11 +34,9 @@ My research lies at **3D Vision**, particularly interested for **3D reconstructi
 
 - Learning 3D Equivariant Implicit Function with Patch-Level Pose-Invariant Representation
 
-**Xin Hu**, Xiaole Tang, Ruixuan Yu, Jian Sun
+&nbsp;**Xin Hu**, Xiaole Tang, Ruixuan Yu, Jian Sun
 
-Neural Information Processing Systems Annual Conference (NeruIPS) 2024
-
-[**PDF**](https://openreview.net/pdf?id=aXS1pwMa8I) [**Code**](https://github.com/mathXin112/PEIF)
+&nbsp;Neural Information Processing Systems Annual Conference (NeruIPS) 2024 (CCF-A). [**PDF**](https://openreview.net/pdf?id=aXS1pwMa8I) [**Code**](https://github.com/mathXin112/PEIF)
 
 
 # 🎖 Honors and Awards
