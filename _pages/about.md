@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
-
 I am currently a Ph.D. Research at [Statistics from School of Mathematics and Statistics](http://math.xjtu.edu.cn), [Xi’an Jiaotong University](http://www.xjtu.edu.cn), Shaanxi, China, supervised by Prof. [Jian Sun](https://gr.xjtu.edu.cn/en/web/jiansun).
 
 I received my M.S. degree from [School of Mathematics and Statistics](https://math.tyut.edu.cn), [Taiyuan University of Technology](https://www.tyut.edu.cn), Shanxi, China, in 2020, supervised by Prof. [Chi Huang](https://it.swufe.edu.cn/info/1119/14718.htm).
