@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am currently a Ph.D. Research at [Statistics from School of Mathematics and Statistics](http://math.xjtu.edu.cn), [Xi’an Jiaotong University](http://www.xjtu.edu.cn), China, supervised by Prof. [Jian Sun](https://gr.xjtu.edu.cn/en/web/jiansun).
+I am currently a Ph.D. Research at [Statistics from School of Mathematics and Statistics](http://math.xjtu.edu.cn), [Xi’an Jiaotong University](http://www.xjtu.edu.cn), Shaanxi, China, supervised by Prof. [Jian Sun](https://gr.xjtu.edu.cn/en/web/jiansun).
 
 I received my M.S. degree from [School of Mathematics and Statistics](https://math.tyut.edu.cn), [Taiyuan University of Technology](https://www.tyut.edu.cn), Shanxi, China, in 2020, supervised by Prof. [Chi Huang](https://it.swufe.edu.cn/info/1119/14718.htm).
 
@@ -37,9 +37,9 @@ My research lies at **3D Vision**, particularly interested for **3D reconstructi
 
 [Learning 3D Equivariant Implicit Function with Patch-Level Pose-Invariant Representation](https://openreview.net/pdf?id=aXS1pwMa8I)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xin Hu**, Xiaole Tang, Ruixuan Yu, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/mathXin112/PEIF)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
