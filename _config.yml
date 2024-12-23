@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xin Hu(胡鑫)"
+title                    : "Xin Hu (胡鑫)"
 description              : "Ph.D. researcher in Xi’an Jiaotong University. "
 repository               : "https://github.com/mathXin112"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xin Hu"
+  name             : "Xin Hu (胡鑫)"
   avatar           : "images/my_image.png"
   bio              : "Xi'an Jiaotong University"
   location         : "Xi'an, China"
