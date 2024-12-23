@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About Me"
-    url: "https://mathxin112.github.io/XinHu.github.io/#about-me"
+    url: "/XinHu.github.io/#about-me"
 
   - title: "News"
-    url: "https://mathxin112.github.io/XinHu.github.io/#-news"
+    url: "/XinHu.github.io/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/XinHu.github.io/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/XinHu.github.io/#-honors-and-awards"
