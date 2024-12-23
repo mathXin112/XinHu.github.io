@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "https://mathxin112.github.io/XinHu.github.io/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "https://mathxin112.github.io/XinHu.github.io/#-news"
 
   - title: "Publications"
     url: "/#-publications"
