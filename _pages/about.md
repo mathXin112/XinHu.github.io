@@ -45,6 +45,12 @@ My research lies at **3D Vision**, particularly interested for **3D reconstructi
 
   ICML 2024 (CCF-A). [[**PDF**]]([https://openreview.net/pdf?id=aXS1pwMa8I](https://arxiv.org/pdf/2405.02843)) [[**Code**]](https://github.com/xl-tang3/RCOT)
 
+- A Noising-Denoising Framework for Point Cloud Upsampling via Normalizing Flows
+
+  **Xin Hu**, Xin Wei, Jian Sun
+
+  Pattern Recognition 2023 (CCF-B, SCI 一区 Top). [[**PDF**]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002698) [[**Code**]](https://github.com/mathXin112/ND-PUFlow)
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
